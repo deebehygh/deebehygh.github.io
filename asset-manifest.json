@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.af226bb3.css",
+    "main.js": "/static/js/main.ec0434ef.js",
+    "static/js/453.19c7e6ca.chunk.js": "/static/js/453.19c7e6ca.chunk.js",
+    "static/media/desmondward.png": "/static/media/desmondward.1a0d110302d42d8677bf.png",
+    "index.html": "/index.html",
+    "main.af226bb3.css.map": "/static/css/main.af226bb3.css.map",
+    "main.ec0434ef.js.map": "/static/js/main.ec0434ef.js.map",
+    "453.19c7e6ca.chunk.js.map": "/static/js/453.19c7e6ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af226bb3.css",
+    "static/js/main.ec0434ef.js"
+  ]
+}
